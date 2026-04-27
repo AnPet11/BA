@@ -1,0 +1,12 @@
+{
+  "name": "dijkstra-shortest-path",
+  "version": "1.0.0",
+  "description": "Lühima tee leidmine suunatud graafis (Dijkstra algoritm)",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
